@@ -1,0 +1,6 @@
+- name: manish
+  group: developer
+- name: mukund
+  group: manager
+- name: shalini
+  group: developer
